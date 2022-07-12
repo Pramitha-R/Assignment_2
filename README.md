@@ -1,5 +1,5 @@
 # Assignment_2
-
+just edit now dont fear pemmi
 Q2.
 Answer each question in a separate commit. Follow the steps below for each commit.
 1. Create a repository named as “Assignment 2” in github with Readme.md file,
